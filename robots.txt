@@ -7,5 +7,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: waline.chuzoux.top
 Sitemap: chuzoux.top/sitemap.xml
 Sitemap: chuzoux.top/baidusitemap.xml
